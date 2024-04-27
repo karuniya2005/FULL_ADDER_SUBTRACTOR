@@ -1,5 +1,5 @@
 # EX NO:4
-<P align='center'><b>Implementation-of-Full-Adder-and-Full-subtractor-circuit<\b>
+<P align='center'><b>Implementation-of-Full-Adder-and-Full-subtractor-circuit <\b>
 
 **DATE:**
 
@@ -49,12 +49,15 @@ Borrow out = A'Bin + A'B + BBin
 **Program:**
 
 ![alt text](<Screenshot 2024-04-27 103439.png>)
+
 **RTL Schematic**
 
 ![alt text](<Screenshot 2024-04-27 103459.png>)
+
 **Truthtable**
 
 ![alt text](<Screenshot 2024-04-27 103509.png>)
+
 **Output Timing Waveform**
 
 ![alt text](<Screenshot 2024-04-27 103527.png>)

@@ -1,6 +1,7 @@
-# FULL_ADDER_SUBTRACTOR
+# EX NO:4
+<P align='center'><b>Implementation-of-Full-Adder-and-Full-subtractor-circuit<\b>
 
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
+**DATE:**
 
 **AIM:**
 
@@ -36,20 +37,45 @@ Diff = A ⊕ B ⊕ Bin
 
 Borrow out = A'Bin + A'B + BBin
 
-**Truthtable**
-
 **Procedure**
-
-Write the detailed procedure here
+```
+1.Follow the same steps as for the full adder.
+ 2.Draw the full subtractor circuit using schematic design.
+ 3.The circuit includes XOR, AND, OR gates to perform subtraction.
+ 4.Compile, simulate, implement, and program the design similarly to the full adder.
+ ```
+**FULL ADDER**
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+![alt text](<Screenshot 2024-04-27 103439.png>)
+**RTL Schematic**
+
+![alt text](<Screenshot 2024-04-27 103459.png>)
+**Truthtable**
+
+![alt text](<Screenshot 2024-04-27 103509.png>)
+**Output Timing Waveform**
+
+![alt text](<Screenshot 2024-04-27 103527.png>)
+
+**FULL SUBRACTOR**
+
+**Program:**
+
+![alt text](<Screenshot 2024-04-27 103537.png>)
 
 **RTL Schematic**
 
+![alt text](<Screenshot 2024-04-27 103546.png>)
+
+**Truthtable**
+
+![alt text](<Screenshot 2024-04-27 103554.png>)
+
 **Output Timing Waveform**
+
+![alt text](<Screenshot 2024-04-27 103603.png>)
 
 **Result:**
 

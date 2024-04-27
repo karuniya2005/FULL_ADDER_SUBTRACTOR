@@ -1,5 +1,5 @@
 # EX NO:4
-<P align='center'> <b Implementation-of-Full-Adder-and-Full-subtractor-circuit <\b>
+<P align='center'> <b>Implementation-of-Full-Adder-and-Full-subtractor-circuit</b>
 
 **DATE:**
 
